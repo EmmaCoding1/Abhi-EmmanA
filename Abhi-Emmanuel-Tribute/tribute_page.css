@@ -1,0 +1,52 @@
+html {
+    font-size: 12px;
+}
+body {
+    margin: 10;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+}
+
+h2 {
+    text-align: center;
+    background: white;
+    color: rgb(61, 4, 31);
+}
+
+#headline {
+    margin: 50px 0;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#img-div {
+    background: rgb(61, 4, 31);
+    padding: 15px;
+    margin: 45px;
+}
+
+#img-caption {
+    margin: 40px 0, 10px 0;
+    text-align: center;
+    color: white;
+}
+
+p {
+    margin: 40px 0;
+    padding: 20px 20px;
+    text-align: justify;
+}
